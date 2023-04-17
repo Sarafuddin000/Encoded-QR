@@ -82,5 +82,5 @@
 <p>AQxGaXJveiBBc2hyYWYCCjEyMzQ1Njc4OTEDEzIwMjEtMTEtMTcgMDg6MzA6MDAEBjExNS4wMAUFMTUuMDA=</p>
 <p>I tested it here on this site and it works fine https://tomeko.net/online_tools/hex_to_base64.php
 </p>
-<p>Now let&#8217;s see how we can do this in Oracle PL/SQL</p>
+<p>Now let&#8217;s see the QR.SQL that  used do this in Oracle PL/SQL</p>
  </html>
